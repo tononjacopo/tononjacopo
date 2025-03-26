@@ -1,16 +1,68 @@
-## Hi there 👋
+<a href="https://tononjacopo.com">
+    <img src="https://github.com/tononjacopo/tononjacopo/blob/9b1c3cf910db033dec8ebc123f2566517ee99119/standard.gif" width="100%" />
+</a>
 
-<!--
-**tononjacopo/tononjacopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">🚀 About me</h2>
 
-Here are some ideas to get you started:
+I'm a passionate <img src="https://github.com/tononjacopo/tononjacopo/blob/9679ce85a78897004badc332a47f2c8008f6d4ae/Animation%20-%201743021307788.gif" height="25" align="absmiddle" />
+Full Stack Developer dedicated to building robust, scalable, and user-friendly applications.👨‍💻 <br>
+I have a strong eye for design and am continually seeking to improve my UI/UX skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning React and Kotlin<br>🎯 Goals: Create the perfect Full-stack project<br></p>
+
+<h2 align="left"><img src="https://github.com/tononjacopo/tononjacopo/blob/1f704dccc04e52c14484136e3c655fda09595841/pcpc.gif" height="55" align="absmiddle" />I code with</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB logo" />
+  <br><br>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
+ <br><br>
+  <!-- Other -->
+  <p><strong>Extras</strong></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop logo" />
+  <img src="https://www.blackmagicdesign.com/media/images/davinci-resolve-logo" height="40" alt="Logo di DaVinci Resolve" />
+  <br><br>
+</div>
+
+<br><br>
+
+## 📈 GitHub Stats
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=tononjacopo&show_icons=true&theme=chartreuse-dark&custom_title=MY%20STATS%20(I'm%20still%20a%20junior)) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tononjacopo&layout=compact&theme=radical)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tononjacopo/tononjacopo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tononjacopo/tononjacopo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tononjacopo/tononjacopo/output/github-snake.svg" />
+</picture>
+
+## ✍️ Latest Blog Posts
+
+- [Journey Through the Cosmos](https://tononjacopo.com/space)
+- [Bring a Piece of History to the Urban Streets](https://tononjacopo.com/shoez/)
+- [The Future of Electric Vehicles: Tesla Roadster](https://tononjacopo.com/tesla/)
+
+## 📫 Get in Touch
+- [Portfolio↗️](https://tononjacopo.com)
+- [LinkedIn](https://it.linkedin.com/in/tononjacopo)
+- [X (twitter)](https://x.com/devtononjacopo)
