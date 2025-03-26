@@ -37,6 +37,9 @@ I have a strong eye for design and am continually seeking to improve my UI/UX sk
  <br><br>
   <!-- Other -->
   <p><strong>Extras</strong></p>
+  <img src="https://github.com/tononjacopo/tononjacopo/blob/cac1cb0c4b5fdf6fce23db45cb2ac822ce2aadb5/asset/PhpStorm.png" height="40" alt="php storm" />
+  <img src="https://github.com/tononjacopo/tononjacopo/blob/cac1cb0c4b5fdf6fce23db45cb2ac822ce2aadb5/asset/intellij-idea.png" height="40" alt="intellij" />
+  <img src="https://github.com/tononjacopo/tononjacopo/blob/cac1cb0c4b5fdf6fce23db45cb2ac822ce2aadb5/asset/pycharm-idea.png" height="40" alt="pycharm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop logo" />
