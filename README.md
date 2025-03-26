@@ -42,7 +42,7 @@ I have a strong eye for design and am continually seeking to improve my UI/UX sk
   <img src="https://github.com/tononjacopo/tononjacopo/blob/cac1cb0c4b5fdf6fce23db45cb2ac822ce2aadb5/asset/pycharm-idea.png" height="40" alt="pycharm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop logo" />
+  <img src="https://github.com/tononjacopo/tononjacopo/blob/6a42162c8dfcfee151ed3a5558198e15e91f59e8/asset/Adobe_Photoshop.png" height="40" alt="Photoshop logo" />
   <img src="https://github.com/tononjacopo/tononjacopo/blob/bdc3d5559383cfde2566313834260c4ab13f859e/asset/davinci-logo.png" height="40" alt="Logo di DaVinci Resolve" />
   <img src="https://github.com/tononjacopo/tononjacopo/blob/57cf5afbb9f96a92ccbe89ff6ecf3b2dc33a5177/asset/obs-logo.jpg" height="40" alt="obs logo" />
 </div>
