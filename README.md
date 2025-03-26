@@ -1,16 +1,16 @@
 <a href="https://tononjacopo.com">
-    <img src="https://github.com/tononjacopo/tononjacopo/blob/9b1c3cf910db033dec8ebc123f2566517ee99119/standard.gif" width="100%" />
+    <img src="https://github.com/tononjacopo/tononjacopo/blob/f3f33fd0f3e4346f713f6c58a9f8678ef50cd1c5/asset/standard.gif" width="100%" />
 </a>
 
 <h2 align="left">🚀 About me</h2>
 
-I'm a passionate <img src="https://github.com/tononjacopo/tononjacopo/blob/9679ce85a78897004badc332a47f2c8008f6d4ae/Animation%20-%201743021307788.gif" height="25" align="absmiddle" />
+I'm a passionate <img src="" height="25" align="absmiddle" />
 Full Stack Developer dedicated to building robust, scalable, and user-friendly applications.👨‍💻 <br>
 I have a strong eye for design and am continually seeking to improve my UI/UX skills.
 
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning React and Kotlin<br>🎯 Goals: Create the perfect Full-stack project<br></p>
 
-<h2 align="left"><img src="https://github.com/tononjacopo/tononjacopo/blob/1f704dccc04e52c14484136e3c655fda09595841/pcpc.gif" height="55" align="absmiddle" />I code with</h2>
+<h2 align="left"><img src="" height="55" align="absmiddle" />I code with</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
