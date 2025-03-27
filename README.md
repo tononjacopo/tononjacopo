@@ -4,7 +4,7 @@
 
 <h2 align="left">🚀 About me</h2>
 
-I'm a passionate <img src="https://github.com/tononjacopo/tononjacopo/blob/2461c4a4550f4052a747dfdcd49ec98c6a50990e/asset/Animation%20-%201743021307788.gif" height="25" align="absmiddle" />
+I'm a passionate <img src="https://github.com/tononjacopo/tononjacopo/blob/2461c4a4550f4052a747dfdcd49ec98c6a50990e/asset/Animation%20-%201743021307788.gif" height="25" width="25" align="absmiddle" />
 Full Stack Developer dedicated to building robust, scalable, and user-friendly applications.👨‍💻 <br>
 I have a strong eye for design and am continually seeking to improve my UI/UX skills.
 
