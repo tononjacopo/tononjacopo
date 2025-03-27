@@ -50,8 +50,11 @@ I have a strong eye for design and am continually seeking to improve my UI/UX sk
 <br><br>
 
 ## 📈 GitHub Stats
-![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=tononjacopo&show_icons=true&theme=chartreuse-dark&custom_title=MY%20STATS%20(I'm%20still%20a%20junior)) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tononjacopo&layout=compact&theme=chartreuse-dark)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tononjacopo&show_icons=true&theme=chartreuse-dark&custom_title=MY%20STATS" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tononjacopo&layout=compact&theme=chartreuse-dark" />
+</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tononjacopo/tononjacopo/output/github-snake-dark.svg" />
