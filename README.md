@@ -33,7 +33,6 @@ I have a strong eye for design and am continually seeking to improve my UI/UX sk
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
  <br><br>
   <!-- Other -->
   <p><strong>Extras</strong></p>
@@ -42,6 +41,7 @@ I have a strong eye for design and am continually seeking to improve my UI/UX sk
   <img src="https://github.com/tononjacopo/tononjacopo/blob/cac1cb0c4b5fdf6fce23db45cb2ac822ce2aadb5/asset/pycharm-idea.png" height="40" alt="pycharm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
   <img src="https://github.com/tononjacopo/tononjacopo/blob/6a42162c8dfcfee151ed3a5558198e15e91f59e8/asset/Adobe_Photoshop.png" height="40" alt="Photoshop logo" />
   <img src="https://github.com/tononjacopo/tononjacopo/blob/bdc3d5559383cfde2566313834260c4ab13f859e/asset/davinci-logo.png" height="40" alt="Logo di DaVinci Resolve" />
   <img src="https://github.com/tononjacopo/tononjacopo/blob/5e568b2dbcfe77a018602698abe4c32bad30505d/asset/OBS_Studio_logo.png" height="40" alt="obs logo" />
