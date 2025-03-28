@@ -10,7 +10,7 @@ I have a strong eye for design and am continually seeking to improve my UI/UX sk
 
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning React and Kotlin<br>🎯 Goals: Create the perfect Full-stack project<br></p>
 
-<h2 align="left"><img src="https://github.com/tononjacopo/tononjacopo/blob/2461c4a4550f4052a747dfdcd49ec98c6a50990e/asset/pcpc.gif" height="55" align="absmiddle" />I code with</h2>
+<h2 align="left"><img src="https://github.com/tononjacopo/tononjacopo/blob/2461c4a4550f4052a747dfdcd49ec98c6a50990e/asset/pcpc.gif" height="55" width="55" align="absmiddle" />I code with</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
