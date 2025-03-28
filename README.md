@@ -8,7 +8,7 @@ I'm a passionate <img src="https://github.com/tononjacopo/tononjacopo/blob/2461c
 Full Stack Developer dedicated to building robust, scalable, and user-friendly applications.👨‍💻 <br>
 I have a strong eye for design and am continually seeking to improve my UI/UX skills.
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning React and Kotlin<br>🎯 Goals: Create a Bank Full-stack project with modern ui and high-level security<br></p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Python, React, Next.js and SCSS<br>🎯 Goals: Create a Bank Full-stack project with modern ui and high-level security<br></p>
 
 <h2 align="left"><img src="https://github.com/tononjacopo/tononjacopo/blob/2461c4a4550f4052a747dfdcd49ec98c6a50990e/asset/pcpc.gif" height="55" width="55" align="absmiddle" />I code with</h2>
 
