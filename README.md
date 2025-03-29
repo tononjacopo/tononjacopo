@@ -2,7 +2,7 @@
     <img src="https://github.com/tononjacopo/tononjacopo/blob/f3f33fd0f3e4346f713f6c58a9f8678ef50cd1c5/asset/standard.gif" width="100%" />
 </a>
 
-<h2 align="left">🚀 About me</h2>
+## 🚀 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒
 
 I'm a passionate <img src="https://github.com/tononjacopo/tononjacopo/blob/2461c4a4550f4052a747dfdcd49ec98c6a50990e/asset/Animation%20-%201743021307788.gif" height="25" width="25" align="absmiddle" />
 Full Stack Developer dedicated to building robust, scalable, and user-friendly applications.👨‍💻 <br>
@@ -49,9 +49,9 @@ I have a strong eye for design and am continually seeking to improve my UI/UX sk
 
 <br><br>
 
-## 📈 GitHub Stats
+## 📈 𝑀𝓎 𝒮𝓉𝒶𝓉𝓈
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tononjacopo&show_icons=true&theme=chartreuse-dark&custom_title=MY%20STATS" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tononjacopo&show_icons=true&theme=chartreuse-dark&custom_title=Github%20Rating" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tononjacopo&layout=compact&theme=chartreuse-dark" />
 </p>
 
@@ -62,13 +62,13 @@ I have a strong eye for design and am continually seeking to improve my UI/UX sk
   <img alt="github-snake" src="https://raw.githubusercontent.com/tononjacopo/tononjacopo/output/github-snake.svg" />
 </picture>
 
-## ✍️ Latest Blog Posts
+## ✍️ 𝐿𝒶𝓉𝑒𝓈𝓉 𝐵𝓁𝑜𝑔 𝒫𝑜𝓈𝓉𝓈
 
 - [Journey Through the Cosmos](https://tononjacopo.com/space)
 - [Bring a Piece of History to the Urban Streets](https://tononjacopo.com/shoez/)
 - [The Future of Electric Vehicles: Tesla Roadster](https://tononjacopo.com/tesla/)
 
-## 📫 Get in Touch
+## 📫 𝒢𝑒𝓉 𝒾𝓃 𝒯𝑜𝓊𝒸𝒽
 [<img src="https://github.com/tononjacopo/tononjacopo/blob/main/asset/logo-portfolio-square.png" alt="Portfolio" width="40">](https://tononjacopo.com)&nbsp;
 [<img src="https://github.com/tononjacopo/tononjacopo/blob/main/asset/LinkedIn_logo_initials.png" alt="LinkedIn" width="40">](https://it.linkedin.com/in/tononjacopo)&nbsp;
 [<img src="https://github.com/tononjacopo/tononjacopo/blob/main/asset/x-logo.png" alt="X" width="40">](https://x.com/devtononjacopo)&nbsp;
