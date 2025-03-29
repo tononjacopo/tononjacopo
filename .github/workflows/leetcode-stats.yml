@@ -2,18 +2,17 @@ name: Update LeetCode Stats
 on:
   schedule:
     - cron: "0 0 * * *"  # Aggiorna ogni giorno a mezzanotte
-  workflow_dispatch:
+  workflow_dispatch:  # Permette di eseguirlo manualmente
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Update LeetCode Stats
-        uses: DenverCoder1/github-readme-streak-stats@v1.0.0
+      - name: Fetch LeetCode Stats
+        uses: anuraghazra/leetcode-stats@master
         with:
           username: "tononjacopo"
-          theme: dark
       - name: Commit changes
         run: |
           git config --global user.name "GitHub Actions"
