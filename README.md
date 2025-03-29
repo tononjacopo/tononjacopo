@@ -54,7 +54,7 @@ I have a strong eye for design and am continually seeking to improve my UI/UX sk
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=tononjacopo&show_icons=true&theme=chartreuse-dark&custom_title=Github%20Rating" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tononjacopo&layout=compact&theme=chartreuse-dark" />
 </p>
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/tononjacopo?theme=dark&font=Monospace)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tononjacopo/tononjacopo/output/github-snake-dark.svg" />
