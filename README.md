@@ -62,12 +62,6 @@ I have a strong eye for design and am continually seeking to improve my UI/UX sk
   <img alt="github-snake" src="https://raw.githubusercontent.com/tononjacopo/tononjacopo/output/github-snake.svg" />
 </picture>
 
-## ✍️ 𝐿𝒶𝓉𝑒𝓈𝓉 𝐵𝓁𝑜𝑔 𝒫𝑜𝓈𝓉𝓈
-
-- [Journey Through the Cosmos](https://tononjacopo.com/space)
-- [Bring a Piece of History to the Urban Streets](https://tononjacopo.com/shoez/)
-- [The Future of Electric Vehicles: Tesla Roadster](https://tononjacopo.com/tesla/)
-
 <h2 align="left"><img src="https://github.com/tononjacopo/tononjacopo/blob/ebe8fbbc767f2260f0422cb30fa81ee3c051260d/asset/letter-box.gif" height="55" width="55" align="absmiddle" />𝒢𝑒𝓉 𝒾𝓃 𝒯𝑜𝓊𝒸𝒽</h2>
 
 [<img src="https://github.com/tononjacopo/tononjacopo/blob/main/asset/logo-portfolio-square.png" alt="Portfolio" width="40">](https://tononjacopo.com)&nbsp;
