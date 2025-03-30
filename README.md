@@ -2,7 +2,7 @@
     <img src="https://github.com/tononjacopo/tononjacopo/blob/f3f33fd0f3e4346f713f6c58a9f8678ef50cd1c5/asset/standard.gif" width="100%" />
 </a>
 
-## 🚀 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒
+<h2 align="left"><img src="https://github.com/tononjacopo/tononjacopo/blob/ebe8fbbc767f2260f0422cb30fa81ee3c051260d/asset/about-me.gif" height="50" width="50" align="absmiddle"/>𝒜𝒷𝑜𝓊𝓉 𝑀𝑒</h2>
 
 I'm a passionate <img src="https://github.com/tononjacopo/tononjacopo/blob/2461c4a4550f4052a747dfdcd49ec98c6a50990e/asset/Animation%20-%201743021307788.gif" height="25" width="25" align="absmiddle" />
 Full Stack Developer dedicated to building robust, scalable, and user-friendly applications.👨‍💻 <br>
@@ -49,7 +49,7 @@ I have a strong eye for design and am continually seeking to improve my UI/UX sk
 
 <br><br>
 
-## 📈 𝑀𝓎 𝒮𝓉𝒶𝓉𝓈
+<h2 align="left"><img src="https://github.com/tononjacopo/tononjacopo/blob/ebe8fbbc767f2260f0422cb30fa81ee3c051260d/asset/stats.gif" height="55" width="55" align="absmiddle" />𝑀𝓎 𝒮𝓉𝒶𝓉𝓈</h2>
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=tononjacopo&show_icons=true&theme=chartreuse-dark&custom_title=Github%20Rating&hide=contribs,prs&bg_color=00000000" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tononjacopo&layout=compact&theme=chartreuse-dark&bg_color=00000000" />
@@ -68,7 +68,8 @@ I have a strong eye for design and am continually seeking to improve my UI/UX sk
 - [Bring a Piece of History to the Urban Streets](https://tononjacopo.com/shoez/)
 - [The Future of Electric Vehicles: Tesla Roadster](https://tononjacopo.com/tesla/)
 
-## 📫 𝒢𝑒𝓉 𝒾𝓃 𝒯𝑜𝓊𝒸𝒽
+<h2 align="left"><img src="https://github.com/tononjacopo/tononjacopo/blob/ebe8fbbc767f2260f0422cb30fa81ee3c051260d/asset/letter-box.gif" height="55" width="55" align="absmiddle" />𝒢𝑒𝓉 𝒾𝓃 𝒯𝑜𝓊𝒸𝒽</h2>
+
 [<img src="https://github.com/tononjacopo/tononjacopo/blob/main/asset/logo-portfolio-square.png" alt="Portfolio" width="40">](https://tononjacopo.com)&nbsp;
 [<img src="https://github.com/tononjacopo/tononjacopo/blob/main/asset/LinkedIn_logo_initials.png" alt="LinkedIn" width="40">](https://it.linkedin.com/in/tononjacopo)&nbsp;
 [<img src="https://github.com/tononjacopo/tononjacopo/blob/main/asset/x-logo.png" alt="X" width="40">](https://x.com/devtononjacopo)&nbsp;
