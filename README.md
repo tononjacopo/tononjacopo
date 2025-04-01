@@ -67,6 +67,7 @@ I have a strong eye for design and am continually seeking to improve my UI/UX sk
 [<img src="https://github.com/tononjacopo/tononjacopo/blob/main/asset/logo-portfolio-square.png" alt="Portfolio" width="40">](https://tononjacopo.com)&nbsp;
 [<img src="https://github.com/tononjacopo/tononjacopo/blob/main/asset/LinkedIn_logo_initials.png" alt="LinkedIn" width="40">](https://it.linkedin.com/in/tononjacopo)&nbsp;
 [<img src="https://github.com/tononjacopo/tononjacopo/blob/main/asset/x-logo.png" alt="X" width="40">](https://x.com/devtononjacopo)&nbsp;
+[<img src="https://github.com/tononjacopo/tononjacopo/blob/d829d853839f4a0078fb1156f113db423b78ead4/asset/leetcode-logo-r.png" alt="Leetcode" width="40">](https://leetcode.com/u/tononjacopo)&nbsp;
 [<img src="https://github.com/tononjacopo/tononjacopo/blob/main/asset/dribble-logo.png" alt="LinkedIn" width="40">](https://dribbble.com/tononjacopo)
 
 
