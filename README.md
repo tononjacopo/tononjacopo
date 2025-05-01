@@ -51,8 +51,8 @@ I have a strong eye for design and am continually seeking to improve my UI/UX sk
 
 <h2 align="left"><img src="https://github.com/tononjacopo/tononjacopo/blob/ebe8fbbc767f2260f0422cb30fa81ee3c051260d/asset/stats.gif" height="55" width="55" align="absmiddle" />𝑀𝓎 𝒮𝓉𝒶𝓉𝓈</h2>
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tononjacopo&show_icons=true&theme=chartreuse-dark&custom_title=Github%20Rating&hide=contribs,prs&bg_color=00000000" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tononjacopo&layout=compact&theme=chartreuse-dark&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tononjacopo&show_icons=true&theme=chartreuse-dark&custom_title=Github%20Rating&hide=contribs,prs&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tononjacopo&layout=compact&theme=chartreuse-dark&bg_color=00000000" />
   <!--<img width="300" src="https://leetcard.jacoblin.cool/tononjacopo?theme=dark&border=00FF00&background=00000000&text=00FF00&ext=heatmap" /> -->
 </p>
 
