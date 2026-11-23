@@ -6,7 +6,7 @@
 
 Full-stack developer focused on UI/UX, performance, and system optimization. I build web applications following structured development workflows, combining frontend architecture, backend development, and user-centered design.
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently studying Python and JS<br>🎯 Goals: Create a Bank Full-stack project with modern ui and high-level security<br></p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently studying Python and JS<br></p>
 
 <h2 align="left"><img src="https://github.com/tononjacopo/tononjacopo/blob/2461c4a4550f4052a747dfdcd49ec98c6a50990e/asset/pcpc.gif" height="55" width="55" align="absmiddle" />𝐼 𝒸𝑜𝒹𝑒 𝓌𝒾𝓉𝒽</h2>
 
