@@ -4,9 +4,7 @@
 
 <h2 align="left"><img src="https://github.com/tononjacopo/tononjacopo/blob/ebe8fbbc767f2260f0422cb30fa81ee3c051260d/asset/about-me.gif" height="50" width="50" align="absmiddle"/>𝒜𝒷𝑜𝓊𝓉 𝑀𝑒</h2>
 
-I'm a passionate <img src="https://github.com/tononjacopo/tononjacopo/blob/2461c4a4550f4052a747dfdcd49ec98c6a50990e/asset/Animation%20-%201743021307788.gif" height="25" width="25" align="absmiddle" />
-Full Stack Developer dedicated to building robust, scalable, and user-friendly applications.👨‍💻 <br>
-I have a strong eye for design and am continually seeking to improve my UI/UX skills.
+Full-stack developer focused on UI/UX, performance, and system optimization. I build web applications following structured development workflows, combining frontend architecture, backend development, and user-centered design.
 
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Python, React, Flutter and Next.js<br>🎯 Goals: Create a Bank Full-stack project with modern ui and high-level security<br></p>
 
